@@ -1,6 +1,8 @@
+
 # 100exmples
 job asked by Mr Jin
 
+```c
 #include<stdio.h>
 void fun()
 {
@@ -47,3 +49,4 @@ double CarculateInterest(double a)
     }
     return (sum);
 }
+```
