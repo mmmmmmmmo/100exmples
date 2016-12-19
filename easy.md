@@ -1,3 +1,4 @@
+c```
 #include<stdio.h>
 #include<math.h>
 #include<stdlib.h>
@@ -99,3 +100,4 @@ void fun_maopao(int *a[])//冒泡排序
             printf("%d",a[i]);
 
 }
+```
